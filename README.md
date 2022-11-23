@@ -1,4 +1,4 @@
-# GitHub Actions Deploy Falsk to AWS Elastic Beanstalk
+# GitHub Actions Deploy Flask to AWS Elastic Beanstalk
 
 
 
